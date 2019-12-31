@@ -45,9 +45,7 @@ while True:
 
     if Cal[1] != "+" or "-" or "*" or "/":
         print("please reenter")
-        
-        
-        //힘들어
+
         
 
 
